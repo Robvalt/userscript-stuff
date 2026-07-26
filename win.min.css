@@ -1,0 +1,7 @@
+/*
+  THIS FILE CONTAINS A MINIFIED VERSION OF win.css INSIDE THE "public/html/win/win.css" FILE LOCATED IN Robvalt/Idksite.
+  Designed to be paired with win.min.js
+*/
+
+@import url(https://unpkg.com/98.css);window-98{display:block;position:absolute;min-width:200px;min-height:150px}.window-content-area{padding:10px;overflow:auto;height:calc(100% - 28px)}
+/* Creates css styling for the window-98 HTML tag that win.min.js Creates. */
